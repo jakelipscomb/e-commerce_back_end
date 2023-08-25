@@ -3,7 +3,7 @@
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Click the button to watch my walkthrough video on YouTube!
-[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://www.youtube.com/watch?v=oiRSpWZPm3E)
+[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://youtu.be/fQh0jhzS_vk)
 
 
   ## Table of Contents
